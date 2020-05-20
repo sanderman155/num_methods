@@ -12,5 +12,9 @@ The following five graphs compare the _calculation accuracy_ of my implementatio
 
 ![alt text](Gaus_graphics/500x500.png "Расхождение")
 
+And this graph shows the dependence of the execution time on the dimension of the matrix. As you can see, the graph is similar to ___n^3___, which corresponds to the _complexity of the algorithm_.
+
+![alt text](Gaus_time_dependes_of_quantity.png "Расхождение")
+
 ## the second task is my implementation of the Cholesky method
 ## the third task is my implementation of the sweep method
