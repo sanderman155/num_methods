@@ -8,5 +8,9 @@ The following five graphs compare the calculation accuracy of my implementation 
 
 ![alt text](Gaus_graphics/300x300.png "Расхождение")
 
+![alt text](Gaus_graphics/400x400.png "Расхождение")
+
+![alt text](Gaus_graphics/500x500.png "Расхождение")
+
 ## the second task is my implementation of the Cholesky method
 ## the third task is my implementation of the sweep method
