@@ -12,6 +12,8 @@ The following five graphs compare the _calculation accuracy_ of my implementatio
 
 ![alt text](Gaus_graphics/500x500.png "Расхождение")
 
+As you can see, the algorithm calculates with an accuracy of ~ __10^-6__(which is very good).
+
 And this graph shows the dependence of the execution time on the dimension of the matrix. As you can see, the graph is similar to ___n^3___, which corresponds to the _complexity of the algorithm_.
 
 ![alt text](Gaus_time_dependes_of_quantity.png "Расхождение")
