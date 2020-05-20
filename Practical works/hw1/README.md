@@ -21,9 +21,9 @@ And this graph shows the dependence of the execution time on the dimension of th
 ## The second task is my implementation of the Cholesky method
 
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.Cholesky()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
-![alt text](Cholesky_graphics/40x 40.png "Расхождение")
+![alt text](Cholesky_graphics/40x40.png "Расхождение")
 
-![alt text](Cholesky_graphics/80x 80.png "Расхождение")
+![alt text](Cholesky_graphics/80x80.png "Расхождение")
 
 ![alt text](Cholesky_graphics/120x120.png "Расхождение")
 
