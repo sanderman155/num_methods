@@ -16,12 +16,12 @@ As you can see, the algorithm calculates with an accuracy of ~ __10^-16__ (which
 
 And this graph shows the dependence of the execution time on the dimension of the matrix. As you can see, the graph is similar to ___n^3___, which corresponds to the _complexity of the algorithm_.
 
-![alt text](Gaus_time_dependes_of_quantity.png "Расхождение")
+![alt text](Gaus_time_dependes_of_quantity.png "Скорость")
 
 ## The second task is my implementation of the Cholesky method
 
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.Cholesky()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
-![alt text](Cholesky_graphics/40x40.png "Расхождение")
+![alt text](Cholesky_graphics/40x\ 40.png "Расхождение")
 
 ![alt text](Cholesky_graphics/80x80.png "Расхождение")
 
@@ -34,7 +34,7 @@ The following five graphs compare the _calculation accuracy_ of my implementatio
 As you can see, the algorithm calculates with an accuracy of ~ __10^-13__ (which is very good).
 
 And this graph shows the dependence of the execution time on the dimension of the matrix.
-![alt text](Cholesky_time_dependes_of_quantity.png "Расхождение")
+![alt text](Cholesky_time_dependes_of_quantity.png "Скорость")
 
 ## the third task is my implementation of the sweep method
 
@@ -53,4 +53,4 @@ As you can see, the algorithm calculates with an accuracy of ~ __10^-15__ (which
 
 And this graph shows the dependence of the execution time on the dimension of the matrix.
 
-![alt text](Sweep_time_dependes_of_quantity.png "Расхождение")
+![alt text](Sweep_time_dependes_of_quantity.png "Скорость")
