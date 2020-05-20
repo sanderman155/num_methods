@@ -49,7 +49,7 @@ The following five graphs compare the _calculation accuracy_ of my implementatio
 
 ![alt text](Sweep_graphics/5000x5000.png "Расхождение")
 
-As you can see, the algorithm calculates with an accuracy of ~ __10^-6__ (which is very good).
+As you can see, the algorithm calculates with an accuracy of ~ __10^-15__ (which is very good).
 
 And this graph shows the dependence of the execution time on the dimension of the matrix.
 
