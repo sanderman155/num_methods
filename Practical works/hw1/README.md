@@ -1,6 +1,11 @@
 # First Homework
 ----------------
 ## The first task is my implementation of the Gaus method
+### GETTING STARTED
+ **to run this program execute this comand**
+  ```
+  jyputer notebook Gaus.ipynb
+  ```
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.solve()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
 ![alt text](Gaus_graphics/100x100.png "Расхождение")
 
