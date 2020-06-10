@@ -1,2 +1,2 @@
-# TRANSFER and TERMAL_CONDICTIVITY
-![](termal_conductivity.mp4)
+# TRANSFER and TERMAL CONDICTIVITY
+![](graphics_gif/termal_conductivity.gif)
