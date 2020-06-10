@@ -12,10 +12,13 @@ To automate the filling of the grid for training and the grid for checking inter
 
 ### Example of interpolation work
 **Linear interpolation**
+
 ![alt text](graphics/linear_interpolation.png)
 
 **Lagrange interpolation**
+
 ![alt text](graphics/lagrange_interpolation.png)
 
 **Spline interpolation**
+
 ![alt text](graphics/spline_interpolation.png)
