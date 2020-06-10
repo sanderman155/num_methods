@@ -4,7 +4,7 @@
 ### GETTING STARTED
  **to run this program execute this comand**
   ```
-  jyputer notebook Gaus.ipynb
+  jupyter notebook Gaus.ipynb
   ```
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.solve()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
 ![alt text](Gaus_graphics/100x100.png "Расхождение")
@@ -24,6 +24,11 @@ And this graph shows the dependence of the execution time on the dimension of th
 ![alt text](Gaus_time_dependes_of_quantity.png "Скорость")
 
 ## The second task is my implementation of the Cholesky method
+### GETTING STARTED
+ **to run this program execute this comand**
+  ```
+  jupyter notebook Cholesky.ipynb
+  ```
 
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.Cholesky()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
 ![alt text](Cholesky_graphics/040x040.png "Расхождение")
@@ -41,6 +46,11 @@ As you can see, the algorithm calculates with an accuracy of ~ __10^-13__ (which
 And this graph shows the dependence of the execution time on the dimension of the matrix.
 ![alt text](Cholecky_time_dependes_of_quantity.png "Скорость")
 ## the third task is my implementation of the sweep method
+### GETTING STARTED
+ **to run this program execute this comand**
+  ```
+  jupyter notebook Sweep.ipynb
+  ```
 
 The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.solve()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
 ![alt text](Sweep_graphics/1000x1000.png "Расхождение")
