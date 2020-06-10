@@ -12,7 +12,14 @@ To automate the filling of the grid for training and the grid for checking inter
 
 ### Example of interpolation work
 **Linear interpolation**
-![alt text]()
+
+![alt text](graphics/linear_interpolation.png)
+
 **Lagrange interpolation**
 
+this graph shows the discrepancy between my implementation of Lagrange interpolation and the library __scipy.interpolate.Lagrange__
+![alt text](graphics/lagrange_interpolation.png)
+
 **Spline interpolation**
+
+![alt text](graphics/spline_interpolation.png)
