@@ -1,6 +1,19 @@
 # Third Homework
 ----------------
 ## There is my implementations of the linear, Lagrange, spline interpolation**
+### GETTING STARTED
+ **to run linear interpolation execute this comand**
+  ```
+  jupyter notebook linear_interpolation.ipynb
+  ```
+ **to run Lagrange interpolation execute this comand**
+  ```
+  jupyter notebook Lagrange_interpolation.ipynb
+  ```
+ **to run spline interpolation execute this comand**
+  ```
+  jupyter notebook spline_interpolation.ipynb
+  ```
 
 ### Train
 
