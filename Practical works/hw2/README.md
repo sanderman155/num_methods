@@ -1,4 +1,18 @@
 # Second Homework
 ----------------
 ## the first task is my implementation of the Jacobi method
+The following five graphs compare the _calculation accuracy_ of my implementation of the Gaus method with the library __numpy.linalg.solve()__ for a matrix of dimensions 100x100, 200x200, 300x300, 400x400, 500x500.
+![alt text](Jacobi_graphics/100x100.png "Расхождение")
+
+![alt text](Jacobi_graphics/150x150.png "Расхождение")
+
+![alt text](Jacobi_graphics/200x200.png "Расхождение")
+
+![alt text](Jacobi_graphics/250x250.png "Расхождение")
+
+As you can see, the algorithm calculates with an accuracy of ~ __10^-16__ (which is very good).
+
+And this graph shows the dependence of the execution time on the dimension of the matrix.
+![alt text](Jacobi_time_dependes_of_quantity.png "Скорость")
+
 ## the second task is my implementation of the Zeidel method
