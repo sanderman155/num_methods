@@ -10,3 +10,9 @@ Linear and Lagrange interpolation are trained on the grid x, y which are located
 
 To automate the filling of the grid for training and the grid for checking interpolation, I wrote the program __fill_with_random_data.ipynb__
 
+### Example of interpolation work
+**Linear interpolation**
+![alt text]()
+**Lagrange interpolation**
+
+**Spline interpolation**
