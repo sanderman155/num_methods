@@ -31,6 +31,7 @@ To automate the filling of the grid for training and the grid for checking inter
 **Lagrange interpolation**
 
 this graph shows the discrepancy between my implementation of Lagrange interpolation and the library __scipy.interpolate.Lagrange__
+
 ![alt text](graphics/lagrange_interpolation.png)
 
 **Spline interpolation**
