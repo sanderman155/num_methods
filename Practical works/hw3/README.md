@@ -1,6 +1,6 @@
 # Third Homework
 ----------------
-## There is my implementations of the linear, Lagrange, spline interpolation**
+## There is my implementations of the linear, Lagrange, spline interpolation
 ### GETTING STARTED
  **to run linear interpolation execute this comand**
   ```
@@ -21,7 +21,7 @@ Linear and Lagrange interpolation are trained on the grid x, y which are located
 
 ### FILL WITH RANDOM DATA
 
-To automate the filling of the grid for training and the grid for checking interpolation, I wrote the program __fill_with_random_data.ipynb__
+To automate the filling of the grid for training and the grid for checking interpolation, I wrote the program __fill_with_random_data.ipynb__. This program fills "train.dat", "train.ans", "test.dat" with random data. 
 
 ### Example of interpolation work
 **Linear interpolation**
@@ -30,7 +30,7 @@ To automate the filling of the grid for training and the grid for checking inter
 
 **Lagrange interpolation**
 
-this graph shows the discrepancy between my implementation of Lagrange interpolation and the library __scipy.interpolate.Lagrange__
+this graph shows the discrepancy between my implementation of Lagrange interpolation and the library __scipy.interpolate.Lagrange__. As you can see, my program has an error of __10^-9__
 
 ![alt text](graphics/lagrange_interpolation.png)
 
